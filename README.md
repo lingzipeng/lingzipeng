@@ -17,10 +17,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lingzipeng&show_icons=true&theme=transparent)
-
-
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lingzipeng&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 
